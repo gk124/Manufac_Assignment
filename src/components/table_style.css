@@ -1,0 +1,32 @@
+.table-bordered {
+    border-collapse: collapse;
+  }
+  
+  .table-bordered th,
+  .table-bordered td {
+    border: 3px solid black;
+  }
+
+  
+  .table-bordered th {
+    background-color: #f8f9fa;
+  }
+
+  .main{
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .main h1{
+    cursor: pointer;
+  }
+
+  .tables{
+    padding: 0 32vw;
+  }
+
+  .col{
+    padding: 0 15px;
+    font-weight: 500;
+  }
+
+  
