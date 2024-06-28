@@ -11,7 +11,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+To add the Mantine V7 UI for styles, run:
+### `yarn add @mantine/core @mantine/hooks` 
 
+To start the React App:
 ### `yarn start`
 
 Runs the app in the development mode.\
