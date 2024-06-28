@@ -1,4 +1,4 @@
-The two tables and aligned side by side. The default one is table1 and when clicking on either table, the two tables will toggles.
+The two tables are aligned side by side. The default one is table1 and when clicking on either table, the two tables will toggle appearing on the main screen.
 Here is the screenshots of the two table.
 ![Screenshot 2024-06-28 233743](https://github.com/gk124/Manufac_Assignment/assets/102045192/b70a6fcd-993d-4a71-b6dd-610eb78c6d00)
 ![Screenshot 2024-06-28 233822](https://github.com/gk124/Manufac_Assignment/assets/102045192/944f143d-d42a-40f3-98a5-43e013a69217)
